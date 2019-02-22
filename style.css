@@ -9,6 +9,10 @@ body,html {
   font-family: sans-serif;
 }
 
+h1 {
+	text-decoration: overline;
+}
+
 .keys {
   display: flex;
   flex: 1;
